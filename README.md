@@ -2,6 +2,7 @@
 
 # Teddy loginflareui
 -- added teddy animation for success, fail, idle ,test
+- cute teddy will make your day :P
 
 
 ![UI](https://github.com/swaraj961/InteractiveTeddy-LoginUI/blob/master/loginflareui/assets/logiinflare.gif)
